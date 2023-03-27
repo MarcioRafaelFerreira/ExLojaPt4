@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "God of War",
+      "foto": ".\\capa1.jpg",
+      "descricao": "aventura",
+      "preco": "150"
+    },
+    {
+      "id": "2",
+      "nome": "Mortal Kombat",
+      "foto": ".\\capa2.jpg",
+      "descricao": "luta",
+      "preco": "120"
+    },
+    {
+      "id": "3",
+      "nome": "Street Figther",
+      "foto": ".\\capa3.jpg",
+      "descricao": "luta",
+      "preco": "100"
+    },
+    {
+      "id ": "4",
+      "nome": "The King of Fighter",
+      "descricao": "luta",
+      "foto": ".\\\\capa4.jpg",
+      "preco": "119",
+      "id": "cABjK1f"
+    },
+    {
+      "id": "GGJzwYd",
+      "produto": "jogo 4",
+      "descricao": "descrição do jogo4",
+      "foto": "jogo1.PNG",
+      "preco": 43
+    }
+  ]
+}
